@@ -18,3 +18,7 @@
     transform: rotate(45deg);
     font-size: 15px;
 }
+
+table{
+    background-color: aqua;
+}
